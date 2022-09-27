@@ -1,6 +1,13 @@
-// This file will contain basic logic for the game of cribbage
-// Blake Tokatly v1.0 2/5/22
-
+/**
+ * @file gameLogic.cpp
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-04-28
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 using namespace std;
 
@@ -19,7 +26,7 @@ using namespace std;
     // Other cards get placed in the crib
 
   // Cut & Flip
-    // Pick a random number, pull the "card" from that index in 
+    // Pick a random number, pull the "card" from that index in
 
 // Horserace
   // The non dealer player will start a "count" up to 31 (cannot go over)
